@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1786973904674,
+      "tag": "0000_striped_black_bird",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1786981311398,
+      "tag": "0001_nice_the_leader",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1786983340413,
+      "tag": "0002_nifty_karnak",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1787153331968,
+      "tag": "0003_multi_account",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1787210974762,
+      "tag": "0004_energy_rollups",
+      "breakpoints": true
+    }
+  ]
+}
